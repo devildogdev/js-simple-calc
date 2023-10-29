@@ -1,5 +1,3 @@
 # js-simple-calc
 
-This is the first JavaScript project I ever built. It was originally meant to be added to a portfolio site that hasn't been built.
-
-I plan to add a few improvements, just to practice.
+This is the first JavaScript project I ever built. It uses Jquery and local fonts. Now it's compatible with my terminal GitHub Pages site.
