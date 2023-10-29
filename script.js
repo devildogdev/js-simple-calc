@@ -3,7 +3,7 @@ const numbers = $('.numbers')
 const operators = $('.operators')
 const output = $('#output')
 const value = 'data-value'
-const maxChar = 13
+const maxChar = 12
 
 // Establish some flags to control input and capture input
 var firstNum = ''
