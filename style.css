@@ -17,16 +17,16 @@ html {
   }
 
 body {
-    background-color: #1a1b26;
-    color: #d8dee9;
+    background-color: #000000;
+    color: #cdd6f4;
     min-height: 400px;
 }
 
 button {
-    background-color: #1a1b26;
-    color: #d8dee9;
+    background-color: #000000;
+    color: #cdd6f4;
     border: solid 3px;
-    border-color: #414868;
+    border-color: #313244;
     border-radius: 10px;
     margin: 2px;
     font-family: 'Anonymous';
@@ -34,7 +34,7 @@ button {
 }
 
 button:hover {
-    background-color: #414868;
+    background-color: #313244;
 }
 
 .calc-box {
@@ -46,13 +46,13 @@ button:hover {
     width: 350px;
     padding-left: 20px;
     padding-right: 20px;
-    border: solid 5px #414868;
+    border: solid 5px #313244;
     border-radius: 20px;
 }
 
 .calc-screen {
     padding-right: 5px;
-    background-color: #414868;
+    background-color: #313244;
     border-radius: 5px;
     min-height: 50px;
     margin-bottom: 20px;
@@ -69,24 +69,24 @@ button:hover {
 }
 
 .operators {
-    border-color: #7aa2f7;
+    border-color: #89b4fa;
 }
 
 #equals {
     grid-row: span 2;
-    border-color: #9ece6a;
+    border-color: #a6e3a1;
 }
 
 #clear {
-    border-color: #f7768e;
+    border-color: #f38ba8;
 }
 
 #backspace {
-    border-color: #bb9af7;
+    border-color: #cba6f7;
 }
 
 #decimal {
-    border-color: #2ac3de;
+    border-color: #89dceb;
 }
 
 #back {
@@ -94,7 +94,7 @@ button:hover {
     left: 50%;
     transform: translate(-50%);
     width: 350px;
-    border: solid 5px #414868;
+    border: solid 5px #313244;
     padding: 10px;
     font-size: 1rem;
 }
